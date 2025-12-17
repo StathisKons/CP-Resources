@@ -80,6 +80,7 @@
 
 - [Guide to Competitive Programming](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf)
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- [Γεωμετρία!!](https://victorlecomte.com/cp-geo.pdf)
 
 ## Miscellaneous
 

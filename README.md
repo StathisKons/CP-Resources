@@ -100,6 +100,7 @@
     - Υπάρχουν πολλά ακόμη, αλλά αυτά κρίναμε ως πιο χρήσιμα
 - https://codeforces.com/edu/courses
 - https://codeforces.com/catalog
+- https://oi-wiki.org/ Κινέζικο cp-algorithms, το πέτυχα πρόσφατα δεν έχω προλάβει να το κοιτάξω, αλλά φαίνεται να έχει μερικά ωραία πράγματα
 
 ## Pro tips
 

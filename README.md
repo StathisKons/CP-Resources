@@ -101,7 +101,7 @@
 - https://codeforces.com/edu/courses
 - https://codeforces.com/catalog
 - https://oi-wiki.org/ Κινέζικο cp-algorithms, το πέτυχα πρόσφατα δεν έχω προλάβει να το κοιτάξω, αλλά φαίνεται να έχει μερικά ωραία πράγματα
-      - http://e-maxx.ru/algo/ ρώσσικο site, είναι το original cp-algorithms, το cp algorithms ξεκίνησε ως μετάφραση του e-maxx
+    -  http://e-maxx.ru/algo/ ρώσσικο site, είναι το original cp-algorithms, το cp algorithms ξεκίνησε ως μετάφραση του e-maxx
 
 ## Pro tips
 
